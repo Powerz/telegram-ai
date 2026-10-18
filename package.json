@@ -1,0 +1,21 @@
+{
+  "name": "telegram-ai",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "test": "node --test",
+    "check": "npm run validate && npm test"
+  },
+  "homepage": "https://github.com/Powerz/telegram-ai#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Powerz/telegram-ai.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Powerz/telegram-ai/issues"
+  }
+}

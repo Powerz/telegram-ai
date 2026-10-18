@@ -1,0 +1,20 @@
+{
+  "name": "telegram-ai",
+  "interface": {
+    "displayName": "Telegram AI"
+  },
+  "plugins": [
+    {
+      "name": "telegram-ai",
+      "source": {
+        "source": "local",
+        "path": "./plugins/telegram-ai"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

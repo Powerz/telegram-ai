@@ -1,0 +1,13 @@
+{
+  "name": "telegram-ai",
+  "owner": {
+    "name": "telegram-ai contributors"
+  },
+  "plugins": [
+    {
+      "name": "telegram-ai",
+      "source": "./plugins/telegram-ai"
+    }
+  ],
+  "description": "Telegram bot and Mini App development skills for Claude Code and Codex."
+}

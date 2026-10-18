@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "telegram-ai",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Research-backed guidance for building Telegram bots and Mini Apps with Claude Code and Codex.",
   "author": {
     "name": "Aleksei Zagoskin",

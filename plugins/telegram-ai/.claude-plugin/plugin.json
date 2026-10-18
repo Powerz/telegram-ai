@@ -1,6 +1,6 @@
 {
   "name": "telegram-ai",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Research-backed guidance for building Telegram bots and Mini Apps with Claude Code and Codex.",
   "author": {
     "name": "Aleksei Zagoskin",

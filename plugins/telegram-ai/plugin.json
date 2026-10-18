@@ -1,10 +1,11 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "telegram-ai",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Research-backed guidance for building Telegram bots and Mini Apps with Claude Code and Codex.",
   "author": {
-    "name": "telegram-ai contributors"
+    "name": "Aleksei Zagoskin",
+    "url": "https://github.com/Powerz"
   },
   "homepage": "https://github.com/Powerz/telegram-ai",
   "repository": "https://github.com/Powerz/telegram-ai",
@@ -22,7 +23,7 @@
       "interface": {
         "displayName": "Telegram AI",
         "shortDescription": "Build Telegram bots and Mini Apps",
-        "developerName": "telegram-ai contributors",
+        "developerName": "Aleksei Zagoskin",
         "category": "Productivity",
         "websiteURL": "https://github.com/Powerz/telegram-ai"
       }

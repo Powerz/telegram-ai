@@ -1,9 +1,10 @@
 {
   "name": "telegram-ai",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Research-backed guidance for building Telegram bots and Mini Apps with Claude Code and Codex.",
   "author": {
-    "name": "telegram-ai contributors"
+    "name": "Aleksei Zagoskin",
+    "url": "https://github.com/Powerz"
   },
   "homepage": "https://github.com/Powerz/telegram-ai",
   "repository": "https://github.com/Powerz/telegram-ai",
